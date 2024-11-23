@@ -8,6 +8,8 @@ Project Overview: https://github.com/cu-ecen-aeld/final-project-kodachi77/wiki/P
 
 Yocto/Petalinux Repository: https://github.com/kodachi77/zybo-z7-petalinux
 
+Vitis Platform Repository: https://github.com/kodachi77/zybo-z7-vitis
+
 BNN training and HW generation code: https://github.com/kodachi77/zybo-z7-mnist
 
 FINN project fork: https://github.com/kodachi77/finn

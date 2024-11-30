@@ -3,6 +3,7 @@
 ## Project Wiki
 
 Project Overview: https://github.com/cu-ecen-aeld/final-project-kodachi77/wiki/Project-Overview
+Project schedule: https://github.com/cu-ecen-aeld/final-project-kodachi77/wiki/Final-Project-Assignment-Schedule 
 
 ## Project repos:
 
